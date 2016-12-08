@@ -1,0 +1,5 @@
+sass:
+  style: compressed
+gems:
+  - 'jekyll-github-metadata'
+repository: rozcietrzewiacz/rozcietrzewiacz.github.io

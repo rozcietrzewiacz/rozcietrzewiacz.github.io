@@ -1,0 +1,11 @@
+# sass #
+########
+.sass-cache/
+
+# jekyll #
+##########
+_site/
+
+# general ignores #
+###################
+.DS_Store
