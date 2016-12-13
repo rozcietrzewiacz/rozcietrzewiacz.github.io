@@ -1,6 +1,6 @@
-#<rozcietrzewiacz.github.io>
+#[rozcietrzewiacz.github.io](https://rozcietrzewiacz.github.io)
 
-Basic landing page based on <github.com/Haroenv/haroenv.github.io>
+Basic landing page based on [haroenv.github.io](github.com/Haroenv/haroenv.github.io)
 
 # License
 
