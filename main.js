@@ -5,10 +5,10 @@
 var descriptions = [
   "open sourcer",
   "multilingual dev",
-  "git fit",
-  "hothead",
+  "infra nerd",
+  "k8s addict",
   "creative thinker",
-  "Linux user",
+  "Linux devmin",
   "Polish"
 ];
 
