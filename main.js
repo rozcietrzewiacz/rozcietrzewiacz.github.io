@@ -9,10 +9,11 @@ var descriptions = [
   "k8s addict",
   "creative thinker",
   "Linux devmin",
-  "Polish"
+  "system engineer"
 ];
 
 var oldIndex = 0;
+var genTimer = setInterval(function(){generate();}, 3000);
 
 //generate a new description
 function generate() {
@@ -31,10 +32,10 @@ function generate() {
 
 
 document.getElementById("generator").addEventListener("click",function() {
+  clearInterval(genTimer);
   generate();
 });
 
-setInterval(function(){generate();}, 2500);
 
 /* making fallback for meter element work */
 var meters = document.getElementsByTagName('meter');
