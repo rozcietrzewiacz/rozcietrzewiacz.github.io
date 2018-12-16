@@ -8,8 +8,9 @@ var descriptions = [
   "infra nerd",
   "k8s addict",
   "creative thinker",
+  "pedantic generalist",
   "Linux devmin",
-  "system engineer"
+  "DevOps engineer"
 ];
 
 var oldIndex = 0;
