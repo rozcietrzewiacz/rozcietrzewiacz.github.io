@@ -34,6 +34,8 @@ document.getElementById("generator").addEventListener("click",function() {
   generate();
 });
 
+setInterval(function(){generate();}, 2500);
+
 /* making fallback for meter element work */
 var meters = document.getElementsByTagName('meter');
 for (var i = 0; i < meters.length; i++) {
