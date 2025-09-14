@@ -3,14 +3,14 @@
 
 /* random description generator */
 var descriptions = [
-  "open sourcer",
-  "multilingual dev",
-  "infra nerd",
-  "k8s addict",
-  "creative thinker",
-  "pedantic generalist",
-  "Linux devmin",
-  "DevOps engineer"
+  "bash wizard",
+  "k8s hacker",
+  "cloud builder",
+  "hothead",
+  "cyber champion",
+  "Linux tinkerer",
+  "relentless automator",
+  "pedantic generalist"
 ];
 
 var oldIndex = 0;
